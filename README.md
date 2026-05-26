@@ -1,1 +1,1 @@
-# BlazorDbzApiPersonaExtra
+# blazor-dbzapi-persona-extra
